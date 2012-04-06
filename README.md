@@ -14,6 +14,8 @@
 
 * Combine PDF
 >Combine the list of return delimited files, and create a single PDF. (bookmarks not copied)
+>
+>Requires: iText [http://itextpdf.com/](http://itextpdf.com/)
 
 * Create Folder
 >Creates a folder using the provided path.
