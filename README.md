@@ -3,7 +3,7 @@
 These Groovy scripts were developed in [ScriptMaster](http://www.360works.com/scriptmaster/) for use with ScriptMaster and [FileMaker Pro](http://www.filemaker.com/).
 
 * Save Text To File
->Writes a message (theText) to a text file (filePath). You can change the character encoding parameter to write in ASCII or international character sets.
+>Writes a text file. You can change the character encoding parameter to write in ASCII or international character sets.
 
 * Save File Dialog
 >Ask the user where to save a file. 
