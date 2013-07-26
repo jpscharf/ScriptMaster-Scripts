@@ -14,7 +14,7 @@ These Groovy scripts were developed in [ScriptMaster](http://www.360works.com/sc
 * `OpenFileDialog ( saveTitle ; defaultDirectory )`
 >Asks the user to select a file. Returns the selected files path.
 
-* `CombinePDF ( files; output )`
+* `CombinePDF ( inputFiles; outputPath; enableCompression )`
 >Combine the list of return delimited files, and create a single PDF. (bookmarks not copied)
 >
 >Requires: iText [http://itextpdf.com/](http://itextpdf.com/)
